@@ -1,0 +1,2 @@
+mes = "Hello"
+print(mes)
