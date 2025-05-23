@@ -1,10 +1,10 @@
-#first day
+## First day
 
     for vs Press Ctrl+Shift+V to open a live preview pane
 
 ## Tasks
 - [x] LINUX SETUP COMMANDS 
-- [] GIT
+- [x] GIT
 - [] 
 - []       
 installation faze:
