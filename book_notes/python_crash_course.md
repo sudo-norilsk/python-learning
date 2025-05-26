@@ -2,4 +2,4 @@
     tell your self what is what you wanna learn?
 
 ## Chapter 2
-    Variables
+    Variables, Create your own language
